@@ -32,8 +32,6 @@ This project is created strictly for educational and research exploration. It is
     4. npm run sedd (on server)
     5. npm run start (on main)
 
-## Screenshots / Videos
-
 
 
 
@@ -67,5 +65,7 @@ For any questions, please contact me at [gj@clinic.com](mailto:gj@clinic.com).[m
 You can also find more of our work at [gerdesjasonl](https://github.com/gerdesjasonl).[muthukonar](https://github.com/muthukonar).[Wick000](https://github.com/Wick000).[Codeherstyle](https://github.com/Codeherstyle).
 
 
+##Deployment Link
+https://docconnection-1es7.onrender.com
 
 'This document was last updated on Feb, 2025'
